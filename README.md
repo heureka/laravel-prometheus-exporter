@@ -28,7 +28,7 @@ Add the repository to composer.json
 "repositories": [
   {
     "type": "vcs",
-    "url": "https://github.com/arquivei/laravel-prometheus-exporter"
+    "url": "https://github.com/heureka/laravel-prometheus-exporter"
   }
 ],
 ```
